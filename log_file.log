@@ -1,0 +1,31 @@
+2016-04-28 18:52:58 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6f2b958e: startup date [Thu Apr 28 18:52:58 EEST 2016]; root of context hierarchy
+2016-04-28 18:52:58 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 18:54:43 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 18:54:43 EEST 2016]; root of context hierarchy
+2016-04-28 18:54:43 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 18:57:03 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4b952a2d: startup date [Thu Apr 28 18:57:03 EEST 2016]; root of context hierarchy
+2016-04-28 18:57:03 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:01:55 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:01:55 EEST 2016]; root of context hierarchy
+2016-04-28 19:01:55 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:02:02 INFO  CalculatorInterceptor:16 - sumOfNumbers method start executing. Inputs: [5, 1]
+2016-04-28 19:02:02 INFO  CalculatorInterceptor:25 - sumOfNumbers method stop executing. Result is 6
+2016-04-28 19:20:02 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:20:02 EEST 2016]; root of context hierarchy
+2016-04-28 19:20:02 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:20:09 INFO  CalculatorInterceptor:16 - differenceOfNumbers method start executing. Inputs: [6, 5]
+2016-04-28 19:20:09 INFO  CalculatorInterceptor:25 - differenceOfNumbers method stop executing. Result is 1
+2016-04-28 19:20:18 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:20:18 EEST 2016]; root of context hierarchy
+2016-04-28 19:20:18 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:23:16 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:23:16 EEST 2016]; root of context hierarchy
+2016-04-28 19:23:16 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:23:22 INFO  CalculatorInterceptor:16 - differenceOfNumbers method start executing. Inputs: [0, 6]
+2016-04-28 19:23:22 INFO  CalculatorInterceptor:25 - differenceOfNumbers method stop executing. Result is -6
+2016-04-28 19:29:09 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:29:09 EEST 2016]; root of context hierarchy
+2016-04-28 19:29:09 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:32:43 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:32:43 EEST 2016]; root of context hierarchy
+2016-04-28 19:32:43 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:32:44 INFO  CalculatorInterceptor:16 - execute method start executing. Inputs: []
+2016-04-28 19:32:48 INFO  CalculatorInterceptor:27 - execute method stop executing.
+2016-04-28 19:34:50 INFO  ClassPathXmlApplicationContext:578 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7dc5e7b4: startup date [Thu Apr 28 19:34:50 EEST 2016]; root of context hierarchy
+2016-04-28 19:34:50 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [application-context.xml]
+2016-04-28 19:34:51 INFO  CalculatorInterceptor:16 - execute method start executing. Inputs: []
+2016-04-28 19:35:01 ERROR CalculatorInterceptor:21 - java.lang.IllegalArgumentException: Wrong input format
+2016-04-28 19:35:01 INFO  CalculatorInterceptor:27 - execute method stop executing.
